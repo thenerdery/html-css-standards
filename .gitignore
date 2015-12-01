@@ -1,0 +1,21 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Caches, Sized Files, etc #
+############################
+.sass-cache/
+node_modules/
+
+# Config Files #
+####################
+.htaccess
+
+# Other #
+####################
+*.log
