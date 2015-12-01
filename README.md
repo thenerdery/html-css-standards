@@ -1,4 +1,4 @@
-# The Nerdery Front-end Coding Standards and Methodology
+# The Nerdery Front-end Coding Standards
 
 ## Table of Contents
   1. [Overview](#overview)
@@ -14,7 +14,7 @@
 
 ## <a name="overview"></a>Overview
 
-## Prime Directive
+### Prime Directive
 
 The standards herein are a guide to keep developers at the Nerdery interoperable amongst each other and able to produce the highest quality code given the timeline and budget constraints of a project.
 
@@ -22,14 +22,14 @@ For a successful project, always favor solutions that benefit the project and en
 
 Always aim to meet the standards knowing you'll have to break the rules at some point. Be thoughtful about when you deviate and check with a senior software engineer or a principal software engineer for guidance.
 
-## Expectations
+### Expectations
 
 * Understand and follow the standards outlined in this document.
 * Understand and follow the [methodology](/standards/methodology.md/).
 * Write code knowing that someone else might be maintaining it.
 * Select tools that benefit the project.
 
-## Goals
+### Goals
 
 Strive to make your code:
 
