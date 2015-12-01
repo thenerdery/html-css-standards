@@ -1,3 +1,5 @@
+# The Nerdery Front-end Coding Standards and Methodology
+
 ## Table of Contents
   1. [Overview](#overview)
   2. [HTML Formatting](/standards/html.md#html-formatting)

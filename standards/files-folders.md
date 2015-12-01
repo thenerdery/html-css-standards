@@ -15,7 +15,7 @@ Our standard folder structure is as follows:
     └── vendor
 ```
 
-Additionally, an example of a typical sass directory structure can be found in [the sass section](/scss.md#folder-structure).
+Additionally, an example of a typical sass directory structure can be found in [the sass section](/standards/scss.md#folder-structure).
 
 ## File Names
 

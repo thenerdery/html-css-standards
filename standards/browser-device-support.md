@@ -26,7 +26,7 @@ Test the accuracy of your work as part of your everyday workflow. You can easily
 * Invert the colors of the screenshot.
 * Everything that matches turns a 50% grey and "disappears" from view while the remaining artifacts that are misplaced generally turn hot pink and neon blue.
 
-![An Overlay Example](../_images/sample-overlay.png)
+![An Overlay Example](/standards/_images/sample-overlay.png)
 
 ## Testing
 

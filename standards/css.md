@@ -13,7 +13,7 @@ Use camelCase for selector names and lowercase for properties & property values 
 
 ## Name Delimiters
 
-For more information on classes, class members, class extensions and class mixins, read the [methodology](/methodology.md/).
+For more information on classes, class members, class extensions and class mixins, read the [methodology](/standards/methodology.md/).
 
 **Class Names**
 
@@ -624,7 +624,7 @@ Keep selector specificity as low as possible, opting for a single class as the b
 
 ## Separation of Concerns
 
-Using the [outlined methodology](/methodology.md/), separate layout styles from container styles and content styles from container styles.
+Using the [outlined methodology](/standards/methodology.md/), separate layout styles from container styles and content styles from container styles.
 
 **Resources**
 
@@ -811,7 +811,7 @@ The recommended units for setting box model related properties are pixels and pe
 }
 ```
 
-When building RWD websites and web applications, alternative units of measurement may be more appropriate, but should be chosen with care to do what's best for the project while striving to maintain our [goals](/#goals).
+When building RWD websites and web applications, alternative units of measurement may be more appropriate, but should be chosen with care to do what's best for the project while striving to maintain our [goals](/README.md#goals).
 
 ## Line-Height
 
@@ -881,7 +881,7 @@ All floats should be cleared using the micro clearfix syntax.
 
 Use sprites whenever possible to improve performance by reducing http requests. Use multiple sprites that are categorized appropriately (nav-sprite, icon-sprite, etc.) as opposed to using a single super sprite for the entire site.
 
-![JPG Example](../../_images/sprite-icon.png)
+![JPG Example](/standards/_images/sprite-icon.png)
 
 **Resources**
 
