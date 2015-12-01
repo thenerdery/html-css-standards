@@ -104,7 +104,6 @@ Mark todos and action items with a comment that includes `TODO`. Be sure that `T
 **Resources**
 
 * <http://validator.w3.org/>
-* <https://validator.nerderylabs.com/w3c-validator/>
 
 ## Doctypes
 
