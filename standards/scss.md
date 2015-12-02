@@ -262,7 +262,7 @@ Also avoid nesting pseudo classes & pseudo elements.
 .nav a {
     color: #ffffff;
 
-    :hover {
+    &:hover {
         color: #00ff00;
     }
 }
