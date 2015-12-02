@@ -32,7 +32,7 @@ Contextual selectors also add weight to our selectors, making them more difficul
 .masthead .utilNav { }
 ```
 
-Don't over quality selectors. Similar to contextual selectors, over qualification limits flexibility and needlessly increases selector weight.
+Avoid overqualified selectors. Similar to contextual selectors, overqualification limits flexibility and needlessly increases selector weight.
 
 ```css
 /* DO */
