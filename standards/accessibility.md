@@ -259,30 +259,6 @@ Button elements require a value between the opening and closing tags.
 <button type="submit">Submit</button>
 ```
 
-## Form Button Values
-
-Form input buttons require a `value` attribute.
-
-```html
-<input type="submit" value="Submit" />
-```
-
-```html
-<input type="reset" value="Reset" />
-```
-
-Image type inputs require an `alt` attribute.
-
-```html
-<input type="image" src="button.png" alt="Submit" />
-```
-
-Button elements require a value between the opening and closing tags.
-
-```html
-<button type="submit">Submit</button>
-```
-
 ## Form Placeholder Text
 
 Use placeholder text to provide a hint to the user.
