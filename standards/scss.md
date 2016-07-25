@@ -293,6 +293,8 @@ Provide default arguments when their absence could cause a compilation error, ot
 @mixin isVisuallyHidden() {
     width: 1px;
     height: 1px;
+    margin: -1px;
+    border: 0;
     position: absolute;
     left: -10000px;
     top: auto;
