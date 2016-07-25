@@ -334,7 +334,7 @@ If a field returns as invalid, it should include the `aria-invalid` attribute wi
         </li>
         <li>
             <label for="formPassword">Password <span class="required">*</span></label>
-            <input type="password" id="formPassword" required aria-required="true" aria-described-by="password-requirements" />
+            <input type="password" id="formPassword" required aria-required="true" aria-describedby="password-requirements" />
             <span id="password-requirements">Use 6-20 characters, at least 1 uppercase letter and 1 number.</span>
         </li>
         <li>
