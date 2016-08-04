@@ -108,7 +108,7 @@ Components are frequently optional, and certainly aren't restricted to head, bod
 
 ## Object Extension
 
-We can account for variations on an object by creating an extension to that object. We prefix the name of an extension the the base class name, followed by an underscore to indicate an extension.
+We can account for variations on an object by creating an extension to that object. We prefix the name of an extension with the base class name, followed by an underscore to indicate an extension.
 
 ```html
 <div class="object object_extension"> ... </div>
@@ -146,7 +146,7 @@ Extending objects is an important habit to get into. Always directly alter the o
 
 Extensions to an object should follow a single ancestry chain. Two sub-classes of an object should not appear on the same object if they are of a different ancestry chain. For these types of scenarios, we have mixins.
 
-Mixins are a type of class extension that do not create a sub-class, but rather can be added to (mixed with) any super or sub-class of object. If a type of object has many variations that cannot be elegantly defined into discrete sub-classes, mixins may be the best solution. Mixins are generally an undesirable way to write CSS and should only be used when that is the best option availabe - usually when a design lacks consistency. Often is is better to create more base classes than to try and shoehorn everything into a single object with a lot of mixins.
+Mixins are a type of class extension that do not create a sub-class, but rather can be added to (mixed with) any super or sub-class of object. If a type of object has many variations that cannot be elegantly defined into discrete sub-classes, mixins may be the best solution. Mixins are generally an undesirable way to write CSS and should only be used when that is the best option availabe - usually when a design lacks consistency. Often it is better to create more base classes than to try and shoehorn everything into a single object with a lot of mixins.
 
 We indicate an object mixin by prefixing the name with "mix-" and the base class name.
 
