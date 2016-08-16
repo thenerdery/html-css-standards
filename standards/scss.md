@@ -23,7 +23,7 @@ Additionally there is a `screen.scss` file that is used to import all SCSS parti
 
 ```diff
 └── assets
-    └── scss
+    └── styles
         ├── base
         |   ├── _elements.scss
         |   ├── _fonts.scss
@@ -69,7 +69,7 @@ Taking these steps provides two production ready CSS files - one of which requir
 
 ```diff
 └── assets
-    └── scss
+    └── styles
         ├── base
         |   ├── _elements.scss
         |   ├── _fonts.scss
