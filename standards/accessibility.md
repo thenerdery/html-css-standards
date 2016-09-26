@@ -157,7 +157,7 @@ Include any text content that appears in an image in the `alt` attribute.
 
 ```html
 <!-- DO -->
-<a href="index.html"><img src="../images/logo.png" alt="Crispen & Mulberry Home" /></a>
+<a href="index.html"><img src="../images/logo.png" alt="Crispen &amp; Mulberry Home" /></a>
 
 <!-- DO NOT -->
 <a href="index.html"><img src="../images/logo.png" alt="Logo" /></a>
