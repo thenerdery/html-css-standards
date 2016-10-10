@@ -294,10 +294,10 @@ Provide default arguments when their absence could cause a compilation error, ot
     width: 1px;
     height: 1px;
     margin: -1px;
-    padding: 0;
     border: 0;
     position: absolute;
-    clip: rect(0 0 0 0);
+    left: -10000px;
+    top: auto;
     overflow: hidden;
 }
 ```
