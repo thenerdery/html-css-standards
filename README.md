@@ -1,4 +1,4 @@
-# The Nerdery Front-end Coding Standards
+# The Nerdery Front-End Engineering Standards & Methodology
 
 ## Table of Contents
   1. [Overview](#overview)
@@ -14,33 +14,21 @@
 
 ## <a name="overview"></a>Overview
 
-### Prime Directive
+The Nerdery’s perspective is that code exists to solve a problem. We favor pragmatic and innovative solutions over adherence to any one approach, abstraction, or toolset. Because the front-end engineering ecosystem is constantly evolving, any guidelines for working within it must continue to be relevant even as specific implementations change. We prioritize interoperability when choosing solutions, and use our guiding principles to write code that is resilient and easy to maintain. We also look to the practices of the front-end community as a whole to create a system of universal consistency.
 
-The standards herein are a guide to keep developers at the Nerdery interoperable amongst each other and able to produce the highest quality code given the timeline and budget constraints of a project.
+This is a living document and reflects the opinions and expertise of The Nerdery’s front-end engineering group. However, the discussion of, contribution to, and evolution of this document is reliant on the front-end community both inside and outside of The Nerdery.
 
-For a successful project, always favor solutions that benefit the project and end users over producing "perfect code".
+### Guiding Principles
 
-Always aim to meet the standards knowing you'll have to break the rules at some point. Be thoughtful about when you deviate and check with a senior software engineer or a principal software engineer for guidance.
+* Code should first and foremost be resilient.
+* Code structure should facilitate and reinforce best practices.
+* Solutions should be pragmatic rather than dogmatic.
+* Priority should be given to tools that align with the [methodology](/standards/methodology.md/).
+* The best practices described in the methodology are guidelines, not strict requirements.
 
-### Expectations
 
-* Understand and follow the standards outlined in this document.
-* Understand and follow the [methodology](/standards/methodology.md/).
-* Write code knowing that someone else might be maintaining it.
-* Select tools that benefit the project.
+### Standards
+The standards are the foundation of consistent and interchangeable code. They are hard rules that can be enforced by automated tools such as linters, validators, and beautifiers.
 
-### Goals
-
-Strive to make your code:
-
-* semantic
-* accessible
-* predictable
-* reusable
-* flexible
-* resilient
-* understandable
-* scalable
-* performant
-* maintainable
-* interoperable
+### Methodology
+The methodology consists of the best practices, engineering principles, and philosophies which guide coded implementations. It represents the unified perspective and expectations that define quality code.
