@@ -323,9 +323,9 @@ Attempting to separate your objects into these three duties results in code that
 
 _TODO: Write Best Practices Description_
 
-  1. [HTML](/standards/html.md)
-  2. [CSS](/standards/css.md)
-  3. [SCSS](/standards/scss.md)
-  4. [Accessibility](/standards/accessibility.md)
-  5. [Browser &amp; Device Support](/standards/browser-device-support.md)
-  6. [Files &amp; Folders](/standards/files-folders.md)
+  1. [HTML](/best-practices/html.md)
+  2. [CSS](/best-practices/css.md)
+  3. [SCSS](/best-practices/scss.md)
+  4. [Accessibility](/best-practices/accessibility.md)
+  5. [Browser &amp; Device Support](/best-practices/browser-device-support.md)
+  6. [Files &amp; Folders](/best-practices/files-folders.md)
