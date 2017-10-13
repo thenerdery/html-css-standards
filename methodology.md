@@ -318,3 +318,14 @@ Attempting to separate your objects into these three duties results in code that
 - [http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/](http://coding.smashingmagazine.com/2012/04/20/decoupling-html-from-css/)
 - [http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/](http://coding.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
 - [http://www.vanseodesign.com/css/smacss-introduction/](http://www.vanseodesign.com/css/smacss-introduction/)
+
+# Best Practices
+
+_TODO: Write Best Practices Description_
+
+  1. [HTML](/standards/html.md)
+  2. [CSS](/standards/css.md)
+  3. [SCSS](/standards/scss.md)
+  4. [Accessibility](/standards/accessibility.md)
+  5. [Browser &amp; Device Support](/standards/browser-device-support.md)
+  6. [Files &amp; Folders](/standards/files-folders.md)

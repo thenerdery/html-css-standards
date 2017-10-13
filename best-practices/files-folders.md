@@ -1,4 +1,4 @@
-# Files &amp; Folders
+# File &amp; Folder Best Practices
 
 ## Folder Structure
 

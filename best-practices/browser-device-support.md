@@ -1,4 +1,4 @@
-# Browser &amp; Device Support
+# Browser &amp; Device Support Best Practices
 
 ## Support Documentation
 
