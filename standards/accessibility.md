@@ -120,7 +120,7 @@ If the project requirements allow, you may combine the use of landmark ARIA role
 
 In order for keyboard users to easily skip to the main content of a site without tabbing through all the previous content, use a "skip to content" link. It is also acceptable to include a "skip to navigation" link if it takes an excessive number of tabs to get focus on the navigation.
 
-It's a best practice to bring skip links into view when they are focused (if they start hidden from view), however since this would then become a visual design element, it should be approved by the designer.
+It's best practice to bring focusable into view when they are focused.
 
 ```html
 <body>
@@ -135,15 +135,17 @@ It's a best practice to bring skip links into view when they are focused (if the
 ```
 
 ```css
-.isVisuallyHidden {
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    padding: 0;
-    border: 0;
-    position: absolute;
-    clip: rect(0 0 0 0);
-    overflow: hidden;
+.isVisuallyHidden:not(:focus):not(:active) {
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    border: 0 !important;
+    padding: 0 !important;
+    clip-path: inset(100%) !important;
+    clip: rect(0 0 0 0) !important;
+    overflow: hidden !important;
+    position: absolute !important;
+    white-space: nowrap !important;
 }
 ```
 
